@@ -1,4 +1,4 @@
-package com.company;
+package com.homework1;
 
 public abstract class Car{
 

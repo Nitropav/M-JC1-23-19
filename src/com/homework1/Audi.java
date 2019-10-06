@@ -1,4 +1,4 @@
-package com.company;
+package com.homework1;
 
 public class Audi extends Car{
     private int place;
