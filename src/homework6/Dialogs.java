@@ -22,4 +22,8 @@ public class Dialogs {
     public Massege[] getMasseges() {
         return masseges;
     }
+
+    public void setMasseges(Massege[] masseges) {
+        this.masseges = masseges;
+    }
 }
