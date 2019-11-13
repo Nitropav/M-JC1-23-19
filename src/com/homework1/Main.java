@@ -24,7 +24,7 @@ public class Main {
 
     public static void prav(Driver c1, Car c2){
         if(c1.getCategory() == ((Mercedes) c2).getCategory()){
-            System.out.println("Категория водителя соответсвует!");
+            System.out.println("Категория водителя соответсвует!");//
         }else {
             System.out.println("Категория водителя не соответсвует для данного автомобиля!");
         }
